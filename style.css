@@ -2,3 +2,13 @@
 .weak-wins {   fill:rgba(35, 93, 120, 1) !important;}
 .strong-losses {   fill:rgba(239, 201, 32, 1) !important;}
 .weak-losses {   fill:rgba(227, 180, 35, 1) !important;}
+
+
+.library-won-result-vs-stronger{  background-color: RGBA( 66, 184, 189, 1 ) !important; color:black !important;}
+.library-won-result-vs-weaker{  background-color: RGBA( 35, 93, 120, 1 ) !important; color:black !important;}
+.library-lost-result-vs-weaker {  background-color: RGBA( 227, 180, 35, 1 ) !important; color:black !important;}
+.library-lost-result-vs-stronger{  background-color: RGBA( 239, 201, 32, 1 ) !important; color:black !important;}
+
+
+.library-lost-result-unranked {  color: RGBA( 232, 190, 34, 1 ) !important;}
+.library-won-result-unranked { color: RGBA( 50, 134, 159, 1 ) !important;}
