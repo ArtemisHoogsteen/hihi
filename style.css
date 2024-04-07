@@ -1,4 +1,4 @@
-.strong-wins {   color: RGBA(58, 201, 226, 0.8) !important;}
+.strong-wins {   fill: rgba(58, 201, 226, 0.8) !important;}
 .weak-wins {   fill:rgba(26, 65, 107, 0.8) !important;}
 .strong-losses {   fill:rgba(238, 214, 50, 0.8) !important;}
 .weak-losses {   fill:rgba(215, 152, 16, 0.8) !important;}
