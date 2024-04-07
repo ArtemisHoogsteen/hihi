@@ -5,7 +5,7 @@
 
 
 .library-won-result-vs-stronger{  background-color: RGBA( 66, 184, 189, 1 ) !important; color:black !important;}
-.library-won-result-vs-weaker{  background-color: RGBA( 35, 93, 120, 1 ) !important; color:black !important;}
+.library-won-result-vs-weaker{  background-color: RGBA( 35, 93, 120, 1 ) !important; color:white !important;}
 .library-lost-result-vs-weaker {  background-color: RGBA( 227, 180, 35, 1 ) !important; color:black !important;}
 .library-lost-result-vs-stronger{  background-color: RGBA( 239, 201, 32, 1 ) !important; color:black !important;}
 
