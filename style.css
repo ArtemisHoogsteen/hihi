@@ -1,7 +1,7 @@
 .strong-wins {   fill:rgba(66, 184, 189, 1) !important;}
 .weak-wins {   fill:rgba(35, 93, 120, 1) !important;}
 .strong-losses {   fill:rgba(239, 201, 32, 1) !important;}
-.weak-losses {   fill:rgba(227, 180, 35, 1) !important;}
+.weak-losses {   fill:rgba(189, 134, 25, 1) !important;}
 
 
 .library-won-result-vs-stronger {  background-color: rgba( 66, 184, 189, 1 ) !important; color:black !important;}
@@ -10,5 +10,5 @@
 .library-lost-result-vs-stronger {  background-color: rgba( 239, 201, 32, 1 ) !important; color:black !important;}
 
 
-.library-lost-result-unranked {  color: rgba( 232, 190, 34, 1 ) !important;}
+.library-lost-result-unranked {  color: rgba( 212, 180, 30, 1 ) !important;}
 .library-won-result-unranked { color: rgba( 50, 134, 159, 1 ) !important;}
